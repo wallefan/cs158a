@@ -1,0 +1,9 @@
+Listening for connections on ('127.0.0.2', 12345)
+Type new address, or press Enter when the client is ready:Trying connection to 127.0.0.3:12345... success.
+Waiting for connection on server (127.0.0.2:12345)... got one from ('127.0.0.1', 38224)
+received Message(uuid=UUID('8b9a72a4-91c2-46ca-b13a-ffd4a77b39be'), flag=0)
+less -- ignoring
+received Message(uuid=UUID('df148c2c-802f-4427-b97c-6a425b8191ea'), flag=0)
+equal -- we have been elected! notifying downstream
+Process complete -- the leader is: df148c2c-802f-4427-b97c-6a425b8191ea
+I'm the leader!  Woohoo!
